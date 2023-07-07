@@ -1,3 +1,11 @@
 h1{
-    color: blue;
+    margin-left: 540px;
+}
+
+body{
+    background-color: gray;
+}
+
+#formulario form{
+    margin-left: 530px;
 }
